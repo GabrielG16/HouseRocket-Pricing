@@ -1,4 +1,5 @@
 # HouseRocket-Pricing
+<img src="https://youimg1.tripcdn.com/target/fd/tg/g3/M04/BB/BB/CggYGVaMcXuAHn8cACGBzc2mJR0522_C_640_320_R5_Q70.jpg_.webp?proc=source%2Ftrip" alt="MarineGEO circle logo" style="height: 200px; width:600px;"/>
 
 Esse projeto teve como objetivo a análise e precificação de casas da região de King County entre os anos de 2014 e 2015.
 
